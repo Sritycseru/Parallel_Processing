@@ -1,8 +1,0 @@
-
-matrix:1069 terminated with signal 11 at PC=7fb2ae3ab580 SP=7ffef0180b60.  Backtrace:
-/lib/x86_64-linux-gnu/libc.so.6(+0x47580)[0x7fb2ae3ab580]
-/lib/x86_64-linux-gnu/libc.so.6(atoi+0x14)[0x7fb2ae3a7654]
-./matrix(+0x17b6)[0x557abd9f67b6]
-/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7fb2ae38dd90]
-/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7fb2ae38de40]
-./matrix(+0x1345)[0x557abd9f6345]
